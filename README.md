@@ -36,3 +36,16 @@ Combine multiple recommendation techniques to provide more accurate and diverse 
 Example: A hybrid system that combines collaborative filtering with content-based filtering to recommend movies based on both user preferences and movie features.
 Cosine Similarity with Simple Example:
 Cosine similarity is a measure used to determine the similarity between two vectors in a multidimensional space. It calculates the cosine of the angle between the vectors, indicating their directional similarity regardless of their magnitudes.
+
+# 💻 About Dataset¶
+
+📊 Context: The dataset encompasses user ratings and free-text tagging from MovieLens, a movie recommendation platform. It comprises 20,002,263 ratings and 465,564 tag applications across 27,278 movies.
+
+👥 User Information: These data originated from 138,493 users randomly selected for inclusion. All users in the dataset have rated a minimum of 20 movies.
+
+📅 Timeline: The dataset spans user activities from January 09, 1995, to March 31, 2015. The dataset itself was generated on October 17, 2016.
+
+🎬 MovieLens Universe: The dataset provides insights into user preferences, offering a comprehensive view of movie ratings and tags, forming the basis for MovieLens recommendation services.
+## Authors
+
+- [@LinkedIn Khan MD Shibli Nomani](https://www.linkedin.com/in/khan-md-shibli-nomani-45445612b/)
