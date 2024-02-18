@@ -3,7 +3,7 @@
 ![image](https://github.com/Shibli-Nomani/project-Recommender-System-using-MovieLens-20M-Dataset/assets/101654553/7d91c627-3d91-4a8a-9537-893a9d268068)
 
 # 👇 Kaggle Link :
-https://www.kaggle.com/code/shiblinomani/mri-of-brain-tumor-classification-using-vgg19#%F0%9F%98%B2-MODEL-PREDICTION-WITH-VALIDATION(UNSEEN-DATA)
+https://www.kaggle.com/code/shiblinomani/recommender-system-using-movielens-20m-dataset
 
 # 😉 About Dataset
 https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset
